@@ -31,12 +31,18 @@ Studying Software Engineering - FIAP
 
 ## 📊 GitHub Stats
 
-
-<a href="https://github.com/Barrzyx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Barrzyx&theme=tokyonight" />
+<a href="https://github.com/Barrzyx/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Barrzyx&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/Barrzyx/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Barrzyx&layout=compact&langs_count=8&card_width=320&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+<a href="https://github.com/Barrzyx/convoychat#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Barrzyx&show_icons=true&theme=tokyonight#gh-dark-mode-only&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5"/>
+</a>
+
+<a href="https://github.com/Barrzyx/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Barrzyx&show_icons=true&theme=buefy#gh-light-mode-only" />
+</a>
+<a href="https://github.com/Barrzyx/convoychat#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Barrzyx&show_icons=true&theme=buefy#gh-light-mode-only&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5"/>
 </a>
 
 ---
