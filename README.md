@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Felipe+%F0%9F%91%8B;Software+Engineering+Student+%40+FIAP;Learning+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Felipe+%F0%9F%91%8B;Software+Engineering+Student+at+FIAP;Learning+one+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 
 </div>
-
-<h3 align="center">💡 "Code is the closest thing we have to magic — I'm still learning the spells."</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipedominguessousa/">
@@ -12,9 +10,6 @@
   </a>
   <a href="mailto:felipedominguesssousa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/fslipe.domingues">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -41,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barrzyx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Felipe's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barrzyx&show_icons=true&theme=tokyonight&hide_border=true" alt="Felipe's GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrzyx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -50,14 +45,6 @@
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipedominguessousa/">LinkedIn</a> •
-  <a href="mailto:felipedominguesssousa@gmail.com">Email</a> •
-  <a href="https://instagram.com/fslipe.domingues">Instagram</a>
-</p>
 
 <div align="center">
 
