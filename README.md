@@ -37,12 +37,17 @@
 
 <p align="center">
   <strong><a href="https://github.com/Barrzyx/inventario-escolar">inventario-escolar</a></strong><br/>
-  Solução desenvolvida para otimizar a rotina de TI escolar: inventário ágil em lote, acompanhamento de avarias e emissão de relatórios formatados em JavaScript, CSS e HTML.
+  Solução desenvolvida para otimizar a rotina de TI escolar: inventário ágil em lote, acompanhamento de avarias/softwares e geração de relatórios tabulados em JavaScript, CSS e HTML.
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/Barrzyx/ShieldProject">ShieldProject</a></strong><br/>
-  Projeto acadêmico desenvolvido na FIAP com foco em arquitetura de software, modularidade e segurança de dados.
+  <strong><a href="https://github.com/Barrzyx/Hop-Escalator">HOP — Atendimento a Elevadores</a></strong><br/>
+  Ecossistema desenvolvido para o Challenge FIAP + OTIS conectando clientes, central operacional e técnicos de campo com triagem de risco e despacho em tempo real via React 19 e Leaflet.
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/Barrzyx/Plouty-Connecting">Plouty — Conexão Agrícola</a></strong><br/>
+  Rede profissional voltada à agricultura familiar e compras institucionais (ODS 2 ONU), com catálogo comercial, reputação de fornecedores e interface responsiva em React e Vite.
 </p>
 
 ---
