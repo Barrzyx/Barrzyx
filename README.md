@@ -1,47 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Felipe+%F0%9F%91%8B;Software+Engineering+Student+at+FIAP;" alt="Typing SVG" />
+# Felipe Domingues
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Engineering+Student+%40+FIAP;Full-Stack+%26+Software+Development;Building+practical%2C+scalable+solutions" alt="Typing Headline" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/felipedominguessousa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:felipedominguessousa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Barrzyx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipedominguessousa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:felipedominguesssousa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+---
+
+### 📌 Sobre Mim
+
+Estudante de **Engenharia de Software na FIAP**, focado em desenvolvimento de software moderno, arquitetura de sistemas e soluções eficientes para problemas reais.
+
+- 🎓 Cursando **Engenharia de Software** na **FIAP** (São Paulo)
+- 💻 Foco em **JavaScript / TypeScript**, **Python**, **React** e **Node.js**
+- ⚙️ Interesse contínuo em boas práticas de arquitetura, Clean Code e integração de APIs
+- 🚀 Experiência prática na criação de ferramentas funcionais para ambientes reais e acadêmicos
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Studying **Software Engineering** at **FIAP**
-- 🌱 Currently deepening my skills in **Python**, **JavaScript** and **React**
-- 🔭 Building small projects to practice what I learn in class
-- 💬 Ask me about anything I might (or might not) know — I'm always up for a challenge
-- ⚡ Fun fact: I learn best by breaking things first, then figuring out how to fix them
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,git,github" alt="Tech Stack" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Barrzyx&show_icons=true&theme=tokyonight&hide_border=true" alt="Felipe's GitHub Stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Barrzyx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Barrzyx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
+### 🛠️ Tech Stack & Ferramentas
