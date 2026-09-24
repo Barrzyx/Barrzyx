@@ -24,11 +24,11 @@
 
 <p align="center">
   Sou estudante de <strong>Engenharia de Software na FIAP</strong>, focado no desenvolvimento de sistemas web, automações e soluções práticas para problemas reais.<br/>
-  Minha stack principal abrange <strong>JavaScript / TypeScript</strong>, <strong>Python</strong>, <strong>React</strong> e <strong>Node.js</strong>, com foco em código limpo, boas práticas de arquitetura e integração de bancos de dados relacionais.
+  Minha stack principal abrange <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong> e <strong>MySQL</strong>, com foco em código limpo, interfaces funcionais e desenvolvimento de software.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,mysql,postgres,git,docker&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
